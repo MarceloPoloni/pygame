@@ -1,0 +1,32 @@
+
+
+WIDTH, HEIGHT = 800, 600
+SCREEN_SIZE = (WIDTH, HEIGHT)
+FPS = 60
+
+# Colors
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+YELLOW = (255, 255, 0)
+
+PLAYER_COLOR = WHITE
+BALL_COLOR = BLACK
+BLOCK_COLOR = RED
+BACKGROUND_COLOR = BLACK
+POWER_COLOR = YELLOW  # Color del poder
+
+PLAYER_WIDTH = 100
+PLAYER_HEIGHT = 20
+PLAYER_SPEED = 20
+
+BALL_RADIUS = 10
+BLOCK_WIDTH = 60
+BLOCK_HEIGHT = 20
+POWER_SIZE = 20  # Tamaño del poder
+
+# Number of blocks
+BLOCKS_PER_ROW = 20  # Número de bloques por fila
+ROWS_OF_BLOCKS = 3  # Número de filas de bloques
